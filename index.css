@@ -1,0 +1,97 @@
+:root{
+
+font-size: 15px;
+}
+
+
+.img{
+	height: 8vh;
+	width: 5vw;
+	padding:0.2rem; 
+}
+.emo{
+	height: 36px;
+	width: 33px;
+	padding:0.2rem; 
+}
+
+.img2{
+	width:25px;
+	height: 25px;
+	margin-top: 12px;
+	margin-left: 15px;
+	
+}
+.img3{
+	
+		width:45px;
+		height:45px;
+
+}
+
+.imgAvatar{
+	 margin: 0.3rem;
+	 height:3rem;
+	 width:3rem;
+}
+.notification{
+	background-color: blue;
+	color: white;
+	padding: 0.4rem;
+	opacity: 0.7;
+}
+
+#scroll{
+	overflow-y:scroll;
+	overflow-x: hidden;
+	height:80vh;	
+}
+
+.rightscroll {
+	overflow-y:scroll;
+	height:80vh;	
+}
+
+#scroll a{
+	text-decoration: none;
+	color: black;
+
+}
+
+ a :hover {
+	background-color: #EEEEEE;
+	color: #078898;
+}
+#backimg{
+	background-image: url("images/back4.jpg");
+	
+}
+
+.dist{
+	margin-top: 6%;
+	height: 20px;
+	font-size: 1rem;
+}
+.bord{
+
+	background-color:#ffffff;
+	border: 1px solid #ffffff;
+	box-shadow: 5px 10px 18px #a9be98;
+	padding: 0.2rem;
+	border-radius: 0.6rem;
+	margin: 1%;
+	}
+
+	.bord2{
+
+	background-color:#dcf8c6;
+	border: 1px solid #dcf8c6;
+	box-shadow: 5px 10px 18px #91b074;
+	padding: 0.2rem;
+	border-radius: 0.6rem;
+	margin: 1%;
+	}
+	
+	.rounded-right{
+		margin-top: 10px;
+	}
